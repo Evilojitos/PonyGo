@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/mapa.unity
+- path: Assets/MostrandoContenido.unity
   isLoaded: 1
   isActive: 1
